@@ -12,7 +12,7 @@
 ---
 
 ## ⚡ Sobre o Projeto
-O **Mowe Client** foi desenvolvido do zero para entregar o máximo de FPS sem sacrificar a estética. Conta com um sistema exclusivo de **Culling 360º**, renderização de fontes em VBOs e um Launcher nativo super leve.
+O **Mowe Client** foi desenvolvido do zero para entregar o máximo de FPS sem sacrificar a estética.
 
 ## ✨ Features Principais
 - 🛡️ **Launcher Próprio:** Auto-atualizável (OTA), login seguro com a Microsoft e configuração rápida de Memória RAM.
