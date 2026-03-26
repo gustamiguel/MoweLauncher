@@ -3,7 +3,7 @@
 # 🚀 Mowe Client
 **O Client de Minecraft 1.8.9 focado em Performance Extrema e Clean UI.**
 
-[![Versão](https://img.shields.io/badge/Versão-1.1.3-brightgreen.svg)](https://github.com/gustamiguel/MoweLauncher/releases/latest)
+[![Versão](https://img.shields.io/badge/Versão-1.1.4-brightgreen.svg)](https://github.com/gustamiguel/MoweLauncher/releases/latest)
 [![Plataformas](https://img.shields.io/badge/Plataforma-Windows%20%7C%20Linux-blue.svg)]()
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.8.9-orange.svg)]()
 
