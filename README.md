@@ -40,5 +40,5 @@ Baixe o arquivo **`.AppImage`**. Lembre-se de dar permissão de execução (`chm
 Para jogar com uma conta original, utilize a opção "Logar com a Microsoft" na engrenagem de configurações do Launcher. Para testes ou servidores piratas, basta digitar seu Nick e clicar em Jogar.
 
 <div align="center">
-  <i>Desenvolvido com 💚 por Gustamiguel</i>
+  <i>Desenvolvido por Gustamiguel</i>
 </div>
