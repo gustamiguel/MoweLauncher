@@ -10,7 +10,6 @@
 
 ## 🎮 O que o Mowe oferece?
 
-*(Substitua os links abaixo por GIFs de 5 a 10 segundos gravados do seu jogo/launcher)*
 
 <div align="center">
   <img src="link_do_gif_do_launcher.gif" width="400" alt="Mowe Launcher">
