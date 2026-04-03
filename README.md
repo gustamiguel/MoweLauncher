@@ -1,44 +1,39 @@
 <div align="center">
-  
-# 🚀 Mowe Client
-**O Client de Minecraft 1.8.9 focado em Performance Extrema e Clean UI.**
+  <h1>Mowe Client</h1>
+  <p><b>Client de Minecraft 1.8.9 focado em performance, cosméticos dinâmicos e segurança.</b></p>
 
-[![Versão](https://img.shields.io/badge/Versão-1.2.9-brightgreen.svg)](https://github.com/gustamiguel/MoweLauncher/releases/latest)
-[![Plataformas](https://img.shields.io/badge/Plataforma-Windows%20%7C%20Linux-blue.svg)]()
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.8.9-orange.svg)]()
-
+  [![Última Versão](https://img.shields.io/github/v/release/gustamiguel/MoweLauncher?color=0078D7&label=Download&style=flat-square)](https://github.com/gustamiguel/MoweLauncher/releases/latest)
+  [![Plataforma](https://img.shields.io/badge/Plataformas-Windows%20%7C%20Linux-lightgrey?style=flat-square)]()
 </div>
 
 ---
 
-## ⚡ Sobre o Projeto
-O **Mowe Client** foi desenvolvido do zero para entregar o máximo de FPS sem sacrificar a estética.
+## Sobre o Projeto
+O Mowe Client é um ecossistema completo (Launcher + Modpack) desenvolvido para modernizar a experiência do Minecraft 1.8.9. O foco do projeto é manter a estabilidade de quadros (FPS) utilizando renderização otimizada em OpenGL, aliada a uma infraestrutura de backend segura para autenticação e cosméticos.
 
-## ✨ Features Principais
-- 🛡️ **Launcher Próprio:** Auto-atualizável (OTA), login seguro com a Microsoft e configuração rápida de Memória RAM.
-- 🚀 **FPS Boost Extremo:** Congelamento de animações ocultas, Raytrace Culling e otimização pesada de partículas.
-- 🎨 **HUD Customizável:** Editor visual "arraste-e-solte", Color Picker global e sistema de Grid Snap.
-- ⚔️ **Mods Essenciais:** Keystrokes, ToggleSprint, Scoreboard clean, ArmorStatus, FPS Counter, e muito mais.
-
----
-
-## 📥 Download e Instalação
-
-Escolha a sua plataforma abaixo e baixe o instalador mais recente:
-
-### 🪟 Para Windows
-Baixe o arquivo **`.exe`** para instalar o Mowe Client e criar o atalho na sua Área de Trabalho.
-👉 [Baixar para Windows (Setup.exe)](https://github.com/gustamiguel/MoweLauncher/releases/latest)
-
-### 🐧 Para Linux (CachyOS, Ubuntu, Arch, etc)
-Baixe o arquivo **`.AppImage`**. Lembre-se de dar permissão de execução (`chmod +x`) antes de abrir.
-👉 [Baixar para Linux (.AppImage)](https://github.com/gustamiguel/MoweLauncher/releases/latest)
+## Funcionalidades
+* **Ecossistema de Cosméticos:** Sistema próprio de renderização de modelos 3D (chapéus, asas, capas) e um editor de capas in-game (desenhe sua própria textura), com sincronização em tempo real entre os jogadores.
+* **Launcher Multiplataforma:** Construído em Electron, oferecendo gerenciamento de memória RAM, autologin e interface responsiva para Windows e distribuições Linux.
+* **Autenticação Segura:** Login integrado com a Microsoft (Original) e Offline, protegido por uma arquitetura serverless via Cloudflare Workers e Firebase.
+* **Atualizações OTA (Over-The-Air):** Sistema de Bootstrapper silencioso. O jogo e o Launcher recebem atualizações contínuas de forma transparente ao usuário.
+* **Otimização de Performance:** Render loop refatorado para reduzir alocações de memória (Garbage Collection) e vazamentos de estado do OpenGL, garantindo fluidez em combates.
 
 ---
 
-## 🛠️ Suporte e Dúvidas
-Para jogar com uma conta original, utilize a opção "Logar com a Microsoft" na engrenagem de configurações do Launcher. Para testes ou servidores piratas, basta digitar seu Nick e clicar em Jogar.
+## Instalação
+
+O Client gerencia as dependências do Java e do Minecraft de forma autônoma. Basta escolher o instalador para o seu sistema operacional:
+
+### Windows
+Faça o download do executável. O instalador configurará o atalho automaticamente de forma silenciosa.
+> [**Baixar Setup (.exe)**](https://github.com/gustamiguel/MoweLauncher/releases/latest)
+
+### Linux
+Disponível em formato portátil. Lembre-se de conceder permissão de execução (`chmod +x`) antes de iniciar.
+> [**Baixar Portátil (.AppImage)**](https://github.com/gustamiguel/MoweLauncher/releases/latest)
+
+---
 
 <div align="center">
-  <i>Desenvolvido por Gustamiguel</i>
+  <sub>Desenvolvido por Gustavo Miguel</sub>
 </div>
