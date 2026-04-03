@@ -4,8 +4,6 @@
   <p><b>Client leve e otimizado para Minecraft 1.8.9 com módulos exclusivos.</b></p>
 
   [![Última Versão](https://img.shields.io/github/v/release/gustamiguel/MoweLauncher?color=0078D7&label=Download&style=flat-square)](https://github.com/gustamiguel/MoweLauncher/releases/latest)
-  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/gustamiguel/MoweLauncher/releases/latest)
-  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/gustamiguel/MoweLauncher/releases/latest)
 </div>
 
 ---
@@ -39,7 +37,7 @@
   <br>
 
   <img src="link_do_gif_mowe_player.gif" width="400" alt="Mowe Player">
-  <p><b>Mowe Player:</b> Tocador de som e música integrado. Controle suas playlists favoritas de dentro do jogo, sem nunca precisar dar ALT+TAB no meio da partida.</p>
+  <p><b>Mowe Player:</b> Tocador de som e música integrado. Controle suas playlists favoritas de dentro do jogo, com suporte a Youtube (Playlists) e Spotify (Somente Links/Músicas Individuais), sem nunca precisar dar ALT+TAB no meio da partida.</p>
 </div>
 
 ---
