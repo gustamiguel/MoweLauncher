@@ -22,7 +22,7 @@
   <br>
 
   <img src="link_do_gif_do_editor_de_capas.gif" width="400" alt="Editor de Capas in-game e Física Fluida">
-  <p><b>Editor In-Game e Física Fluida:</b> Crie e equipe capas instantaneamente através do nosso editor exclusivo. Adicione ondulações realistas ao tecido e <b>ajuste o número de segmentos</b> para deixar o movimento exatamente como você quer.</p>
+  <p><b>Editor In-Game de Capas e Física de Tecido:</b> Crie e equipe capas instantaneamente através do nosso editor exclusivo. Com suporte a ondulações realistas ao tecido e <b>ajuste o número de segmentos</b> para deixar o movimento exatamente como você quer.</p>
   
   <br>
 
