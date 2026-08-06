@@ -30,11 +30,6 @@
   <p><b>Cosméticos Exclusivos (em desenvolvimento):</b> Modelos 3D (asas, chapéus e mais) perfeitamente sincronizados com todos os jogadores do servidor.</p>
 
   <br>
-  
-<img src="link_do_gif_gender_mod.gif" width="400" alt="Mowe Female Model">
-  <p><b>Mowe Female Model:</b> Modelo 3D feminino construído do zero. Conta com geometria exclusiva, adaptação perfeita a qualquer armadura (mesmo com textura) e sincronização nativa com todos os jogadores do Client.</p>
-
-  <br>
 
   <img src="link_do_gif_mowe_player.gif" width="400" alt="Mowe Player">
   <p><b>Mowe Player:</b> Tocador de som e música integrado. Controle suas playlists favoritas de dentro do jogo, com suporte a Youtube (Playlists) e Spotify (Somente Links/Músicas Individuais), sem nunca precisar dar ALT+TAB no meio da partida.</p>
